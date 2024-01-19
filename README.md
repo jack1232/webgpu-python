@@ -9,13 +9,13 @@ In this YouTube video series, I'll use real-world sample apps to explore the fun
 
 <br />
 
-## Books on WebGPU in Python
+## Book on WebGPU in Python
 Most of the examples used in this video series are taken from my recently published books **"Practical GPU Graphics with wgpu-py and Python"** 
 
 [<img src="assets/readme/wgpu-py01.png" width="250" height="308">](https://drxudotnet.com)
 
 
-Please see details about these books at https://drxudotnet.com. 
+Please see details about this book at https://drxudotnet.com. 
 
 <br />
 
