@@ -2,9 +2,9 @@
 
 
 
-*wgpu-py* is a Python implementation of WebGPU - the next generation GPU API, while *pygfx* is a Python rendering engine for WebGPU based on *wgpu-py*. This rendering engine enables the creation of a wide variety of graphics applications in Python. Its high-level abstractions make it easy to begin coding with WebGPU, while also allowing developers to craft custom and optimized rendering solutions. With just a few lines of code, intricate 3D objects can be created, as demonstrated on your screen.
+*wgpu-py* is a Python implementation of WebGPU - the next generation GPU API, while *pygfx* is a Python rendering engine for WebGPU based on *wgpu-py*. This rendering engine empowers the creation of a diverse range of graphics applications in Python. Its high-level abstractions make it accessible for coding with WebGPU, allowing developers to build customized and optimized rendering solutions.
 
-In this YouTube video series, I'll use real-world sample apps to explain the basics of *pygfx* rendering engine, including its structure, geometries, materials, lighting, and cameras. Throughout this series, I’ll guide you in creating a variety of advanced 3D graphics on the *pygfx* engine, including stunning 3D objects with lighting effects, colormaps, and texture mapping.
+In this YouTube video series, I'll use real-world sample apps to explore the fundamentals of the *pygfx* rendering engine. Topics covered include its structure, geometries, materials, lighting, and cameras. Throughout this series, I’ll guide you in crafting various advanced 3D graphics using the *pygfx* engine, showcasing stunning 3D objects with lighting effects, colormaps, and texture mapping.
 
 
 <br />
@@ -27,13 +27,13 @@ Please visit my YouTube channel: [Practical Programming with Dr. Xu](https://www
 
 ### Video Series for Rust wgpu Step-by-Step:
 
-1. Introduction: https://youtu.be/i6WMfY-XTZE
+1. Introduction: https://youtu.be/nweJfavURQs
 
 
 <br />
 
 ## Sample Objects 
-Here are some sample objects created using the *pygfx* engine, which I will discussed in this video series.
+Here are some sample objects created using WebGPU in Python, which I will discussed in this video series.
 
 ### Cubes and Spheres:
 ![cube-sphere](assets/readme/cube_sphere.png) 
@@ -55,7 +55,7 @@ Here are some sample objects created using the *pygfx* engine, which I will disc
 
 ## Run Examples
 
-All examples are stored in the *src* folder. From the root (or CODE_EXAMPLES) folder, you can use the following command to run the specified example:
+All examples are stored in the *src* folder. From the root (or CODE_EXAMPLES) folder, you can use the following command to run a specific example:
 
 `python src/video_01/showcase.py`
 
