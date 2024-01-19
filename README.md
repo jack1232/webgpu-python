@@ -55,7 +55,7 @@ Here are some sample objects created using WebGPU in Python, which I will discus
 
 ## Run Examples
 
-All examples are stored in the *src* folder. From the root (or CODE_EXAMPLES) folder, you can use the following command to run a specific example:
+All examples are stored in the *src* folder. From the root folder, you can use the following command to run a specific example:
 
 `python src/video_01/showcase.py`
 
