@@ -25,7 +25,7 @@ Please visit my YouTube channel: [Practical Programming with Dr. Xu](https://www
 
 
 
-### Video Series for Rust wgpu Step-by-Step:
+### Video Series for WebGPU in Python:
 
 1. Introduction: https://youtu.be/nweJfavURQs
 
